@@ -1,6 +1,9 @@
 * {
   color: rgb(255, 255, 255);
 }
+body {
+  background-color: rgb(49, 44, 44);
+}
 h1 {
   font-size: 48px;
   padding: 20px;
@@ -10,8 +13,4 @@ li {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding-bottom: 20px;
   font-size: 28px;
-}
-
-body {
-  background-color: rgb(49, 44, 44);
 }
